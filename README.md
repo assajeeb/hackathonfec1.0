@@ -233,7 +233,11 @@ Response:
 Problem 9:
 
 Dockerfile is created with name Dockerfile
+
+
 docker build -t hackathon/laravel:0.1 .
+
+
  docker run -p 8080:80  hackathon/laravel:0.1
 
 
